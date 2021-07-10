@@ -1,6 +1,6 @@
 ### Hello! My name is Aditya Fitriadi. 
 - 🔭 I've completed my Bachelor Degree in Computer Science.
-- 🌱 I’m currently learning game development, backend technologies and cloud computing.
+- 🌱 I’m currently learning game development, backend development and cloud computing.
 - 👯 I’m looking to collaborate on indie game or backend project.
 <br/>
 
