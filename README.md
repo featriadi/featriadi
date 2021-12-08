@@ -1,7 +1,7 @@
 ### Hello! My name is Aditya Fitriadi. 
 - 🔭 I've completed my Bachelor Degree in Computer Science.
 - 🌱 I’m currently learning game development, backend development and cloud computing.
-- 👯 I’m looking to collaborate on indie game or backend project.
+- 👯 I’m looking to collaborate on an indie game.
 <br/>
 
 ![Adit's github stats](https://github-readme-stats.vercel.app/api?username=featriadi&count_private=true&show_icons=true&theme=tokyonight)
